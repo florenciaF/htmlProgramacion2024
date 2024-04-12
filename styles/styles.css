@@ -1,0 +1,28 @@
+
+h2 {
+    color: blueviolet;
+    text-align:center
+}
+
+
+
+h6 {
+    font-size: 18px;
+}
+
+
+
+/* google font */
+.fuentes {
+    font-family: 'Sedgwick Ave Display', cursive; 
+    text-align: center;
+}
+
+.fuente2 {
+    font-family:'IBM Plex Mono', italic;
+    text-align: center;
+}
+
+.fuentes3 {
+    font-family:'Alfa Slab One';
+}
